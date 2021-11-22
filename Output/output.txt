@@ -1,0 +1,12 @@
+{'review': 'Having a sturdy legs. Working very well with heavy dslr camera and mobile phone. Gripping is strong and movable head is also a plus point. In this price range i think this is one the most durable and quality product. Thank you seller and Amazon for super fast and safe delivered. Recommended to all.',
+ 'topics': [{'sentence': 'have sturdy leg',
+   'aspect': {'build quality': 0.4475009640452337}},
+  {'sentence': 'work heavy dslr camera phone',
+   'aspect': {'stability': 0.7101064063846888}},
+  {'sentence': 'grip strong movable head point',
+   'aspect': {'build quality': 0.4606380772678239}},
+  {'sentence': 'price range think durable quality product',
+   'aspect': {'price': 0.8577169568461753}},
+  {'sentence': 'thank seller amazon fast safe deliver',
+   'aspect': {'other': 0.7913987820339798}},
+  {'sentence': 'recommend', 'aspect': {'price': 0.9560214131165558}}]}
